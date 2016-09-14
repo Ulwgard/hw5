@@ -1,0 +1,6 @@
+D:\projects\ConsoleApplication5\hw5\bin\Debug\hw5.exe.config
+D:\projects\ConsoleApplication5\hw5\bin\Debug\hw5.exe
+D:\projects\ConsoleApplication5\hw5\bin\Debug\hw5.pdb
+D:\projects\ConsoleApplication5\hw5\obj\Debug\hw5.csprojResolveAssemblyReference.cache
+D:\projects\ConsoleApplication5\hw5\obj\Debug\hw5.exe
+D:\projects\ConsoleApplication5\hw5\obj\Debug\hw5.pdb
